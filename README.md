@@ -1,6 +1,4 @@
-<h1>Hi, I'm Luca</h1>
-<h3>A jr. full stack web developer from Milano</h3>
-
+<img src="https://github.com/lucamagenes/lucamagenes/blob/main/profile-img.png" height=400>
 
 <h3 align="left">Languages and Tools:</h3>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucamagenes&show_icons=true&locale=en&layout=compact" alt="lucamagenes" />
