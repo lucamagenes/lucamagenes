@@ -1,4 +1,4 @@
-<img src="https://github.com/lucamagenes/lucamagenes/blob/main/profile-img.png" height=400>
+<img src="https://github.com/lucamagenes/lucamagenes/blob/main/profile-img.png" height=200>
 
 <h3 align="left">Languages and Tools:</h3>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucamagenes&show_icons=true&locale=en&layout=compact" alt="lucamagenes" />
